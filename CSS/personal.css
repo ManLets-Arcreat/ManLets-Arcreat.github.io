@@ -1,0 +1,97 @@
+
+/* Add a black background color to the top navigation */
+nav {
+  background-color: black;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+footer{
+  background-color: #DEDEBA;
+}
+
+
+.left2{
+  margin-left: 50px;
+  max-width: 200px;
+}
+
+.right2{
+  margin-left: 1000px;
+  max-width: 200px;
+
+}
+
+.aho{
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+h1{
+            padding: 25px;
+            border : 2px solid skyblue;
+            border-radius: 25px;
+            box-shadow: 5px 5px 15px skyblue;
+            background-color: skyblue;
+            margin :auto;
+            font-family: arial;
+
+
+}
+
+/*Makes it so that the header is centered*/
+.header {
+  max-width: 960px;
+  margin: auto;
+  background: lightgoldenrodyellow;
+  padding: 10px;
+}
+
+.body {
+  max-width: 960px;
+  margin: auto;
+  background: lightgoldenrodyellow;
+  padding: 10px;
+}
+
+table{
+  background-color:lightgoldenrodyellow;"
+  padding: 60px;
+            border-radius: 25px;
+            margin :auto;
+
+}
+body{
+  background-color:lightgoldenrodyellow;"
+}
+
+
+/*Table border*/
+table,th, td{
+  border: 3px solid;
+}
+/*Collapses the table*/
+table{
+ 
+}
+/*List Styling for ol*/
+ol{
+  margin: auto;
+  padding: 40px;
+}
